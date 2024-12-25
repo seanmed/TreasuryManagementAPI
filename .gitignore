@@ -1,0 +1,16 @@
+# Visual Studio
+.vscode/
+bin/
+obj/
+
+# Build artifacts
+publish/
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# Secrets
+.env
+appsettings.Development.json
