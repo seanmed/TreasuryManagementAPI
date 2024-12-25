@@ -1,0 +1,6 @@
+@TreasuryManagementAPI_HostAddress = http://localhost:5026
+
+GET {{TreasuryManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

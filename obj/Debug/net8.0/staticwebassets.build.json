@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CqQ0youMys1sqJzXrOAUIlU1xfQarbMvFEjt26ed/4E=",
+  "Source": "TreasuryManagementAPI",
+  "BasePath": "_content/TreasuryManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
