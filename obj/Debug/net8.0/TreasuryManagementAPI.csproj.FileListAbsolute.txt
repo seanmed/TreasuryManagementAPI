@@ -156,6 +156,7 @@ C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debu
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\TreasuryManagementAPI.csproj.CoreCompileInputs.cache
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\TreasuryManagementAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\TreasuryManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\TreasuryManagementAPI.sourcelink.json
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\scopedcss\bundle\TreasuryManagementAPI.styles.css
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\medni\source\repos\TreasuryManagementAPI\TreasuryManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
